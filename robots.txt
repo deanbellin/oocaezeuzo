@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://napheipaiv.0xbc.blog/sitemap.xml
